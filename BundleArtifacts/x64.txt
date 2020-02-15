@@ -1,0 +1,2 @@
+MainPackage=D:\VSProject\Soul Detective\bin\x64\Release\Soul Detective_1.1.2.0_x64.msix
+SymbolPackage=D:\VSProject\Soul Detective\obj\x64\Release\Symbols\Soul Detective_1.1.2.0_x64.appxsym
